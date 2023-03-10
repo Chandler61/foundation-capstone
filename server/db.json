@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "title": "Pagani Zonda F",
+      "rating": 5,
+      "imageURL" : "https://www.the-lowdown.com/wp-content/uploads/2015/09/12029726_1048612421815420_8385810913266116735_o.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Lamborghini Murcielago ",
+      "rating": 5,
+      "imageURL" : "https://i.redd.it/zzvhcnvyn5491.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Dodge Viper",
+      "rating": 5,
+      "imageURL" : "https://cdn.motor1.com/images/mgl/rlmQV/s3/2016-dodge-viper-acr.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Hyundai Veloster R-spec",
+      "rating": 5,
+      "imageURL" : "https://images.fitmentindustries.com/web-compressed/836846-13-2019-veloster-hyundai-turbo-r-spec-ark-performance-coilovers-voxx-falco-matte-black.jpg"
+    },
+    {
+      "id":5,
+      "title":"Ferrari LaFerrari",
+      "rating":4,
+      "imageURL":"https://cdn.ferrari.com/cms/network/media/img/resize/5d9721371b6fa75346d60ad0-ferrari-laferrari-2013-engine-focuson-desktop-03?"
+    },
+    {
+      "id":6,
+      "title":"Bugatti Chiron",
+      "rating":4,
+      "imageURL":"https://gtspirit.com/wp-content/uploads/2021/06/02_hispeed_css-e1624431465349.jpg"
+    },
+    {
+      "id":7,
+      "title":"Lamborghini Aventador",
+      "rating":5,
+      "imageURL":"https://media.ed.edmunds-media.com/lamborghini/aventador/2022/oem/2022_lamborghini_aventador_convertible_ultimae-roadster_fq_oem_1_1600.jpg"
+    },
+    {
+      "id":8,
+      "title":"Subaru STI Hatchback",
+      "rating":5,
+      "imageURL":"https://images.fitmentindustries.com/web-compressed/828063-1-2014-impreza-subaru-wrx-sti-air-lift-performance-air-suspension-volk-te37sl-gunmetal.jpg"
+    }
+  ]
